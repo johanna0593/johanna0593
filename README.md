@@ -1,17 +1,24 @@
 # 👋 Olá, eu sou a Johanna Liza!
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Apaixonada por **desenvolvimento front-end**, design de interfaces e tecnologia.  
-🚀 Busco uma **oportunidade de estágio** para aplicar meus conhecimentos e continuar aprendendo!
+💻 Apaixonada por tecnologia e por **criar sistemas que resolvem problemas reais**  
+🚀 Busco uma **oportunidade de estágio** para aplicar meus conhecimentos e continuar crescendo como desenvolvedora!
 
 ---
 
 ## 🧠 Tecnologias que uso e estou aprendendo
 
+- **Backend:** Java, Spring Boot, Node.js (aprendendo), APIs REST  
 - **Frontend:** React, JavaScript, HTML5, CSS3  
-- **Backend:** Java (Spring Boot), Node.js (iniciando)  
 - **Banco de dados:** PostgreSQL, MySQL  
-- **Ferramentas:** Git, GitHub, VSCode, IntelliJ  
+- **Ferramentas:** Git, GitHub, VSCode, IntelliJ, Postman  
+
+---
+
+## ⚙️ O que eu mais gosto de fazer
+
+Adoro **desenvolver o lado back-end dos sistemas**, criar lógicas bem estruturadas, integrar bancos de dados e garantir que tudo funcione de forma eficiente.  
+Mas também me interesso por **front-end**, pois acredito que entender toda a aplicação — do servidor à interface — é essencial para ser uma boa desenvolvedora.
 
 ---
 
@@ -22,26 +29,26 @@ Sistema web onde os usuários podem compartilhar atividades relacionadas a filme
 > Tecnologias: React, CSS Responsivo, Node.js, PostgreSQL  
 🔗 [Ver repositório](https://github.com/johanna0593/TpsReact)
 
-### 🧱 Formulário de Registro de Produto
-Aplicação com campos dinâmicos, validação e layout responsivo.  
-> Tecnologias: React, HTML, CSS  
-🔗 [Ver repositório](https://github.com/johanna0593/Tp2WebReact)
+### 📦 Microserviço de E-mail
+Serviço desenvolvido com Spring Boot para envio de notificações por e-mail, com integração via API REST.  
+> Tecnologias: Java, Spring Boot, JavaMailSender  
+🔗 [Ver repositório](https://github.com/johanna0593/email-service)
 
 ---
 
 ## 🌱 Sobre mim
 
-Sou uma pessoa curiosa e dedicada, sempre em busca de melhorar minhas habilidades técnicas e de design.  
-Adoro trabalhar com layouts e responsividade, e meu objetivo é contribuir para o desenvolvimento de interfaces funcionais e bonitas.
+Sou uma pessoa curiosa e dedicada, apaixonada por resolver problemas com código.  
+Gosto de aprender novas tecnologias e de transformar ideias em sistemas úteis e bem construídos.  
+Meu foco está em **desenvolvimento back-end**, mas também busco compreender todo o fluxo da aplicação.
 
 ---
 
 📫 **Como me encontrar**
-- [LinkedIn](https://www.linkedin.com) *(adicione seu link real aqui)*  
-- ✉️ Email: johanna.liza@example.com  
+- [LinkedIn]: (https://www.linkedin.com/in/johanna-liza/)   
+- ✉️ Email: johannaliza8@gmail.com  
 - 🌐 Portfólio (em breve via GitHub Pages!)
 
 ---
 
 ⭐ *Se quiser ver meus projetos mais recentes, dê uma olhada nos repositórios abaixo!*
-

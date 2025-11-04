@@ -6,12 +6,12 @@
 
 ---
 
-## 🧠 Tecnologias que uso e estou aprendendo
+### 🧠 Tecnologias que uso e estou aprendendo
 
-- **Backend:** Java, Spring Boot, Node.js (aprendendo), APIs REST  
-- **Frontend:** React, JavaScript, HTML5, CSS3  
-- **Banco de dados:** PostgreSQL, MySQL  
-- **Ferramentas:** Git, GitHub, VSCode, IntelliJ, Postman  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 

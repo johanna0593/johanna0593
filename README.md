@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Johanna Liza!
 
-🎓 Estudante de **Engenharia de Software**  
+🎓 Estudante de **Engenharia de Software** com data de conclução em Junho de 2027
 💻 Apaixonada por tecnologia e por **criar sistemas que resolvem problemas reais**  
 🚀 Busco uma **oportunidade de estágio** para aplicar meus conhecimentos e continuar crescendo como desenvolvedora!
 

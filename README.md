@@ -45,7 +45,7 @@ Meu foco está em **desenvolvimento back-end**, mas também busco compreender to
 ---
 
 📫 **Como me encontrar**
-- [LinkedIn]: (https://www.linkedin.com/in/johanna-liza/)   
+- [LinkedIn](https://www.linkedin.com/in/johanna-liza/)
 - ✉️ Email: johannaliza8@gmail.com  
 - 🌐 Portfólio (em breve via GitHub Pages!)
 

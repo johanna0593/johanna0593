@@ -29,11 +29,6 @@ Sistema web onde os usuários podem compartilhar atividades relacionadas a filme
 > Tecnologias: React, CSS Responsivo, Node.js, PostgreSQL  
 🔗 [Ver repositório](https://github.com/johanna0593/TpsReact)
 
-### 🎬 Rede Social para Cinéfilos
-![Demo do projeto](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-> Projeto em React com backend Node.js e PostgreSQL  
-🔗 [Ver repositório](https://github.com/johanna0593/TpsReact)
-
 
 ### 📦 Microserviço de E-mail
 Serviço desenvolvido com Spring Boot para envio de notificações por e-mail, com integração via API REST.  
